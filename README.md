@@ -94,7 +94,7 @@ For purposes of this Part only, the following definitions shall apply:
 
 3. **~~buying and selling Virtual Currency as a customer business;~~**
 
-  [Commentary: Again, this is far too broad. What entities would or should be covered under this clause who are not identified by #2? Those selling Virtual Currency on consignment? They're covered, even with my new definition.]
+  [Commentary: Again, this is far too broad. What entities would or should be covered under this clause who are not identified by #2? Those selling Virtual Currency on consignment? They're covered, even with the proposed definition.]
 
 4. performing retail conversion services **on behalf of others**, including the conversion or exchange of Fiat Currency or other value into Virtual Currency, the conversion or exchange of Virtual Currency into Fiat Currency or other value, or the conversion or exchange of one form of Virtual Currency into another form of Virtual Currency; or
 

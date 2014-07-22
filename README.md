@@ -34,7 +34,7 @@ Proposed BitLicense Regulations for the State of New York
 
 ### CHAPTER I.  REGULATIONS OF THE SUPERINTENDENT OF FINANCIAL SERVICES - PART 200. VIRTUAL CURRENCIES
 
-#### Statutory Authority: Financial Services Law, sections 102,104, 201, 206, 301, 302, 309, and 408
+#### Statutory Authority: Financial Services Law, sections [102](http://law.onecle.com/new-york/financial-services-law/FIS0102_102.html), [104](http://law.onecle.com/new-york/financial-services-law/FIS0104_104.html), [201](http://law.onecle.com/new-york/financial-services-law/FIS0201_201.html), [206](http://law.onecle.com/new-york/financial-services-law/FIS0206_206.html), [301](http://law.onecle.com/new-york/financial-services-law/FIS0301_301.html), [302](http://law.onecle.com/new-york/financial-services-law/FIS0302_302.html), [309](http://law.onecle.com/new-york/financial-services-law/FIS0309_309.html), and [408](http://law.onecle.com/new-york/financial-services-law/FIS0408_408.html)
 
 <a name="introduction"/>
 ## Section 200.1  Introduction

@@ -70,7 +70,7 @@ For purposes of this Part only, the following definitions shall apply:
 
 ##### (l) ~~Transmission means the transfer, by or through a third party, of Virtual Currency from one Person to another Person, including the transfer from the account or storage repository of one Person to the account or storage repository of another Person;~~
 
-  *[Commentary: This is vague, overbroad, and in any reasonable interpretation, entirely redundant. In theory, this sweeps in Verizon for transmitting packets containing Bitcoin transactions over its network, which means Verizon would have to maintain records of all such packet transmissions. It makes no sense to require BitLicenses for anyone except those acting as agents with custodial control over the property of another.]*
+  *[Commentary: This is vague, overbroad, and in any reasonable interpretation, entirely redundant. In theory, this sweeps in Verizon for transmitting packets containing Bitcoin transactions over its network, which means Verizon would have to maintain records of all such packet transmissions. Even if it doesn't implicate service providers, it definitely implicates miners. It makes no sense to require BitLicenses for anyone except those acting as agents with custodial control over the property of another.]*
 
 ##### (m) Virtual Currency means any type of digital unit that is used as a medium of exchange or a form of digitally stored value or that is incorporated into payment system technology. Virtual Currency shall be broadly construed to include digital units of exchange that:
 

@@ -102,7 +102,7 @@ For purposes of this Part only, the following definitions shall apply:
 
 5. **~~controlling, administering, or issuing a Virtual Currency.~~**
 
-[Commentary: Everyone who possesses any quantity of Virtual Currency controls it. Anyone who effects its transfer administers it. Issuance alone should not require a license unless the issuer also meets the requirements of #2. Otherwise a kid experimenting by creating an altcoin in his basement is technically required to have a BitLicense. Any reasonable interpretation of this clause would necessarily "on behalf of others" or "for commercial use by others", in which case, entities engaged in this behavior are the same as identified in #2.]
+[Commentary: Everyone who possesses any quantity of Virtual Currency controls it. Anyone who effects its transfer administers it. Issuance alone should not require a license unless the issuer also meets the requirements of #2. Otherwise a kid experimenting by creating an altcoin in his basement is technically required to have a BitLicense. Any reasonable interpretation of this clause would necessarily include "on behalf of others" or "for commercial use by others", in which case, entities engaged in this behavior are or should be the same as identified in #2.]
 
 ##### **(o) Maintaining Custody or Control of Virtual Currency on Behalf of Others means:**
 

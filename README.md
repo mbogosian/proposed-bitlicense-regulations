@@ -70,7 +70,7 @@ For purposes of this Part only, the following definitions shall apply:
 
 ##### (l) ~~Transmission means the transfer, by or through a third party, of Virtual Currency from one Person to another Person, including the transfer from the account or storage repository of one Person to the account or storage repository of another Person;~~
 
-[This is vague, overbroad, and in any reasonable interpretation, entirely redundant. In theory, this sweeps in Verizon for transmitting packets containing Bitcoin transactions over its network, which means Verizon would have to maintain records of all such packet transmissions. It makes no sense to require BitLicenses for anyone except those acting as agents with custodial control over the property of another.]
+[Commentary: This is vague, overbroad, and in any reasonable interpretation, entirely redundant. In theory, this sweeps in Verizon for transmitting packets containing Bitcoin transactions over its network, which means Verizon would have to maintain records of all such packet transmissions. It makes no sense to require BitLicenses for anyone except those acting as agents with custodial control over the property of another.]
 
 ##### (m) Virtual Currency means any type of digital unit that is used as a medium of exchange or a form of digitally stored value or that is incorporated into payment system technology. Virtual Currency shall be broadly construed to include digital units of exchange that:
 
@@ -125,7 +125,7 @@ For purposes of this Part only, the following definitions shall apply:
 
 1. ~~Persons that are chartered under the New York Banking Law to conduct exchange services and are approved by the superintendent to engage in Virtual Currency Business Activity; and~~
 
-[Exempting banks makes no sense. If banks already meet the requirements, they should be required to to say so in their BitLicense applications, just like everyone else, if only to maintain transparency and create a record of those entities seeking to participate in this market.]
+[Commentary: Exempting banks makes no sense unless the goal is specifically to exclude others from the market. If banks already meet the requirements, they should be required to to say so under penalty of perjury in their BitLicense applications, just like everyone else, if only to maintain transparency and create a record of those entities seeking to participate in this market.]
 
 2. merchants and consumers that utilize Virtual Currency solely for the purchase or sale of goods or services.
 

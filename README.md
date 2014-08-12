@@ -70,7 +70,7 @@ For purposes of this Part only, the following definitions shall apply:
 
 ##### (l) ~~Transmission means the transfer, by or through a third party, of Virtual Currency from one Person to another Person, including the transfer from the account or storage repository of one Person to the account or storage repository of another Person;~~
 
-  *[Commentary: This is vague, overbroad, and in any reasonable interpretation, entirely redundant. In theory, this sweeps in Verizon for transmitting packets containing Bitcoin transactions over its network, which means Verizon would have to maintain records of all such packet transmissions. Even if it doesn't implicate service providers, it definitely implicates miners. It makes no sense to require BitLicenses for anyone except those acting as agents with custodial control over the property of another.]*
+  *[Commentary: This is vague, overbroad, and in any reasonable interpretation, entirely redundant. In theory, this sweeps in Verizon for transmitting packets containing Bitcoin transactions over its network, which means Verizon would have to maintain records of all such packet transmissions. Even if it doesn't implicate carriers, it definitely includes miners. It makes no sense to require BitLicenses for anyone except those acting as agents with custodial control over the property of another.]*
 
 ##### (m) Virtual Currency means any type of digital unit that is used as a medium of exchange or a form of digitally stored value or that is incorporated into payment system technology. Virtual Currency shall be broadly construed to include digital units of exchange that:
 
@@ -90,7 +90,7 @@ For purposes of this Part only, the following definitions shall apply:
 
 2. **~~securing, storing, holding, or maintaining~~ Maintaining** custody or control of Virtual Currency on **~~behalf of others~~ Behalf of Others**;
 
-  *[Commentary: Custody and control on behalf of others is an important concept in cryptocurrencies, which provide unique tools in this area. It is deserving of its own definition (see below).]*
+  *[Commentary: Custody and control on behalf of others is an important concept in cryptocurrencies, which provide unique tools in this area. It is deserving of its own definition (see below). Securing, storing, or holding *without* maintaining custody or control should not be covered. Otherwise, individuals who write or distribute wallet software that runs *entirely* on NY residents' own computers would have to be licensed under this scheme.]*
 
 3. **~~buying and selling Virtual Currency as a customer business;~~**
 
@@ -98,17 +98,17 @@ For purposes of this Part only, the following definitions shall apply:
 
 4. performing retail conversion services **on behalf of others**, including the conversion or exchange of Fiat Currency or other value into Virtual Currency, the conversion or exchange of Virtual Currency into Fiat Currency or other value, or the conversion or exchange of one form of Virtual Currency into another form of Virtual Currency; or
 
-  *[Commentary: Again, this is too broad and redundant. #2 is purpose agnostic and already covers this.]*
+  *[Commentary: Again, at worst, this is too broad. At best, this is redundant. #2 is purpose-agnostic and already covers this.]*
 
 5. **~~controlling, administering, or issuing a Virtual Currency.~~**
 
-  *[Commentary: Everyone who possesses any quantity of Virtual Currency controls it. Anyone who effects its transfer administers it. Issuance alone should not require a license unless the issuer also meets the requirements of #2. Otherwise a kid experimenting by creating an altcoin in his basement is technically required to have a BitLicense. Any reasonable interpretation of this clause would necessarily include "on behalf of others" or "for commercial use by others", in which case, entities engaged in this behavior are or should be the same as identified in #2.]*
+  *[Commentary: Everyone who possesses any quantity of Virtual Currency controls it. Anyone who effects its transfer administers it. Issuance alone should not require a license unless the issuer also meets the requirements of #2. Otherwise a kid experimenting by creating an altcoin in his bedroom in New York is technically required to have a BitLicense. Any reasonable interpretation of this clause would necessarily include "on behalf of others" or "for commercial use by others", in which case, entities engaged in this behavior are or should be the same as identified in #2.]*
 
 ##### **(o) Maintaining Custody or Control of Virtual Currency on Behalf of Others means:**
 
-1. **possession and exercise of the ability by an entity other than the title holder to spend or effect a transfer of Virtual Currency without assistance from the title holder; or**
+1. **possession and exercise of the ability by an entity other than the title holder of Virtual Currency to spend or effect a transfer of said Virtual Currency without permission from the title holder; or**
 
-2. **possession and exercise of the ability by an entity other than the title holder to indefinitely prevent or postpone the spending or transferring of Virtual Currency without assistance from the title holder.**
+2. **possession and exercise of the ability by an entity other than the title holder of Virtual Currency to indefinitely prevent or frustrate the spending or transferring of said Virtual Currency without permission from the title holder.**
 
   *[Commentary: If the stated goal of this regulation is to be given any credibility, it is precisely this type of activity that should be sought to be identified. This is what Mt. Gox violated.]*
 
